@@ -1,4 +1,4 @@
-### Hi there, I'm Cornelius -
+### Hi there, I'm Cornelius
 
 
 ## I'm a Mechanical Engineering Student at ETH Zurich in Switzerland, with a Focus on Robotics, Systems and Control.
@@ -7,35 +7,30 @@
 
 
 ### How to reach me:
-[<img align="left" alt="corneliuseinem.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="corneliuseinem.com" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="corneliuseinem | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
-<img align="left" alt="Latex" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/latex/latex.png" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
-<img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/matlab/matlab.png" />
-<img align="left" alt="openCV" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/unity/unity.png" />
-<img align="left" alt="Visua Basic" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-basic/visual-basic.png" />
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" />
-
-<!--
-ROS
-
-RPA
+<img align="left" alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
+<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img align="left" alt="openCV" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png" />
+<img align="left" alt="ROS" width="35px" src="https://www.ros.org/wp-content/uploads/2013/10/rosorg-logo1.png" />
+<img align="left" alt="Matlab" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/matlab/matlab.png" />
+<img align="left" alt="Linux" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
+<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Arduino" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png" />
+<img align="left" alt="Latex" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/latex/latex.png" />
+<img align="left" alt="Unity" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/unity/unity.png" />
+<img align="left" alt="Visual Basic" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-basic/visual-basic.png" />
+<img align="left" alt="C#" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" />
+<img align="left" alt="UiPath" width="35px" src="https://www.uipath.com/hubfs/Valentin/Brand-Kit/logos/UiPath-full-logo.svg?v=2.0" />
 
 
-
--->
 
 <!--
 **ceinem/ceinem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
