@@ -1,7 +1,4 @@
-### Hi there, I'm Cornelius
-
-
-## I'm a Mechanical Engineering Student at ETH Zurich in Switzerland, with a Focus on Robotics, Systems and Control.
+## Hi there, I'm Cornelius, I'm a Mechanical Engineering Student at ETH Zurich in Switzerland, with a Focus on Robotics, Systems and Control.
 - 🔭 I’m currently working on custom SLAM systems implemented in ROS/C++
 - 🌱 I’m currently learning Swift, but just for fun and out of curiosity
 
