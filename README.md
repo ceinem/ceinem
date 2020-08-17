@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on custom SLAM systems implemented in ROS/C++
 - 🌱 I’m currently learning Swift, but just for fun and out of curiosity
 
-[<img align="left" alt="corneliuseinem.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/glove.svg" />][website]
+[<img align="left" alt="corneliuseinem.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <!--
 **ceinem/ceinem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
