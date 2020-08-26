@@ -10,12 +10,9 @@
 <br />
 
 ### Languages and Tools:
-![C++](https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png)
 
 
-## Testing stuff
-
-<img align="left" alt="C++" height="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
+<img align="left" alt="C++" height="35px" style="padding:16px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
 <img align="left" alt="Python" height="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img align="left" alt="openCV" height="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png" />
 <img align="left" alt="ROS" height="35px" src="https://www.ros.org/wp-content/uploads/2013/10/rosorg-logo1.png" />
