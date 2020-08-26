@@ -10,6 +10,10 @@
 <br />
 
 ### Languages and Tools:
+![C++](https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png)
+
+
+## Testing stuff
 
 <img align="left" alt="C++" height="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
 <img align="left" alt="Python" height="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
