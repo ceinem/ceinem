@@ -1,5 +1,5 @@
 ## Hi there, I'm Cornelius, I'm a PhD Student at ETH Zurich in Switzerland, with a Focus on Robotics and Computer Vision.
-- 🔭 I’m currently working on custom SLAM systems implemented in ROS/C++
+- 🔭 I’m currently working on long-range obstacle detection, developing custom sensor solutions and developing software for them
 - 🌱 I’m currently learning Swift, but just for fun and out of curiosity
 
 
@@ -24,9 +24,6 @@
 <img align="left" alt="Terminal" height="35px" style="padding:16px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Arduino" height="35px" style="padding:16px" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png" />
 <img align="left" alt="Latex" height="35px" style="padding:16px" src="https://raw.githubusercontent.com/github/explore/master/topics/latex/latex.png" />
-<img align="left" alt="Unity" height="35px" style="padding:16px" src="https://raw.githubusercontent.com/github/explore/master/topics/unity/unity.png" />
-<img align="left" alt="Visual Basic" height="35px" style="padding:16px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-basic/visual-basic.png" />
-<img align="left" alt="C#" height="35px" style="padding:16px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" />
 <img align="left" alt="UiPath" height="35px" style="padding:16px" src="https://www.uipath.com/hubfs/Valentin/Brand-Kit/logos/UiPath-full-logo.svg?v=2.0" />
 
 
